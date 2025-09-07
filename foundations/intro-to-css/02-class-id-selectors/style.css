@@ -1,23 +1,18 @@
 /* Add CSS Styling */
 .odd-number {
-    color: white;
     background-color: pink;
     font-family: "Verdana", "DejaVu Sans", sans-serif
 }
 
+.adjust-font-size {
+    font-size: 24px
+}
 #second {
     color: blue;
-    background-color: white;
     font-size: 36px
 }
 
-#third {
-    font-size: 24px;
-}
-
 #fourth {
-    color: white;
     background-color:greenyellow;
-    font-size: 24px;
     font-weight: bold;
 }
